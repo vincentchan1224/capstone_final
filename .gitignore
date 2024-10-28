@@ -15,6 +15,6 @@ build/
 .DS_Store
 
 backend/node_modules/
-backend/.env
-backend/
-src/firebase/
+#backend/.env
+#backend/
+#src/firebase/
