@@ -30,7 +30,7 @@ LordRPG is an idle game where players can manage their character, summon and col
 ## Getting Started
 
 1. Clone the repository
-2. Install dependencies for both frontend and backend: `cd game/idle-game
+2. Install dependencies for both frontend and backend: `cd capstone_final
 npm install
 cd backend
 npm install  `
@@ -41,6 +41,22 @@ FIREBASE_DATABASE_URL=your_database_url  `
 npm start  `
 6. Run the frontend development server: `cd ..
 npm start  `
+
+## Account info
+
+Accessing the Application:
+
+Frontend: http://localhost:3000/
+
+Login Credentials:
+
+Email: vincentchan1224@gmail.com
+Password: 123456
+Admin Login: http://localhost:3000/admin-login
+
+Admin Credentials:
+Email: vincentchan1224@gmail.com
+Password: 123456
 
 ## Technologies Used
 
@@ -58,10 +74,6 @@ npm start  `
 - `/backend`: Node.js backend code
   - `server.js`: Main server file
   - `/routes`: API route handlers
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
