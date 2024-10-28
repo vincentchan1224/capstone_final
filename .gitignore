@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Environment files
+.env
+
+# Build directory (for React projects)
+build/
+
+# System files
+.DS_Store
+
+backend/node_modules/
+backend/.env
+backend/
+src/firebase/
